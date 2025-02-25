@@ -1,2 +1,2 @@
 # Books
-Projeto feito o curso de responsividade da Alura.
+Projeto feito dutante o curso de responsividade da Alura.
